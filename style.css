@@ -1,0 +1,16 @@
+
+    .img-album{
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    .album{
+        margin-bottom: 20px;
+    }
+
+    .album a{
+        text-decoration: none;
+        color: black;
+    }
